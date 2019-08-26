@@ -1,10 +1,10 @@
 # Contributing to EDGES
 
-|| Note: these guidelines are based in large part on the excellent guidelines in https://github.com/RadioAstronomySoftwareGroup/pyuvdata/CONTRIBUTING.md
+> Note: these guidelines are based in large part on the excellent guidelines in https://github.com/RadioAstronomySoftwareGroup/pyuvdata/CONTRIBUTING.md
 
 Thank you for considering contributing to EDGES! 
 
-[Edges-collab)(https://github.com/edges-collab) is a Github organisation hosting a set of open-source 
+[Edges-collab](https://github.com/edges-collab) is a Github organisation hosting a set of open-source 
 software applicable to the [EDGES](http://loco.lab.asu.edu/edges/) experiment.
 While members of the collaboration are active collaborators on the experiment, the tools provided
 here may sometimes find wider applicability in the community, and are intended to make the analysis
@@ -131,6 +131,7 @@ Repos should *always* contain (the following can be replaced by relevant `.rst` 
 * A `README.md`: this should briefly describe the purpose of the repo, its main features, how to install it, and how
   to use it in the most basic way. If possible, it should contain badges at the top which quickly show
   the status of the code (tests passing, coverage, docs etc.).
+* An `AUTHORS.md`: this should contain the primary authors, and a list of every contributor to the code.
 
 Managing repos/projects:
 * We treat individual repositories as self-contained parts of the overall project that are loosely coupled
