@@ -80,7 +80,7 @@ do our best to help you through the process. Here’s some advice to help make y
 
 * Be bold! Leave feedback!
   - Sometimes it can be scary to make new issues or comment on existing issues or pull requests, but contributions 
-    from the wider community are what ensure that pyuvdata serves the whole community as well as possible.
+    from the wider community are what ensure that the EDGES collaboration code serves the whole community as well as possible.
 
 * Be rigorous
   - Our requirements on code style, testing and documentation are important. If you have questions about them or 
